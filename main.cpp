@@ -6,7 +6,7 @@
 #include "planetoid.h"
 #include <ctime>    // For time()
 #include <cstdlib>  // For srand() and rand()
-#include <windows.h>
+//#include <windows.h>
 #include <string>
 #include <cctype>
 #include <iostream> // for debugging right now
